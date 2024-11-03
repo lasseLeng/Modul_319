@@ -21,9 +21,9 @@ namespace BeispielApp
             bool Schülerausweis = true;              // Boolescher Wert
             char initial = 'A';                      // Einzelnes Zeichen
             string name = "Lasse";                   // Zeichenkette
-            //Anweisungen durch Semikolon getrennt
 
             // Ausgabe der Variablen
+            //Anweisungen durch Semikolon getrennt
             Console.WriteLine("Name: " + name);
             Console.WriteLine("Alter: " + alter);
             Console.WriteLine("erwartete Note: " + Note);
