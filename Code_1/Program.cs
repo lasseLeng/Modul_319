@@ -1,0 +1,39 @@
+﻿using System;
+
+namespace BeispielApp
+{
+    class Program
+    {
+        // Konstante
+        const double Pi = 3.14159;
+
+        static void Main(string[] args)
+        {
+            // Verschiedene Datentypen und Variablen
+            int alter = 16;                     // Ganzzahl
+            double Note = 5.5;           // Gleitkommazahl
+            bool Schülerausweis = true;             // Boolescher Wert
+            char initial = 'A';                 // Einzelnes Zeichen
+            string name = "Lasse";               // Zeichenkette
+
+            // Ausgabe der Variablen
+            Console.WriteLine("Name: " + name);
+            Console.WriteLine("Alter: " + alter);
+            Console.WriteLine("erwartete Note: " + Note);
+            Console.WriteLine("Schülerausweis erhalten: " + Schülerausweis);
+            Console.WriteLine("Blutgruppe: " + initial);
+
+            // Verwendung der Konstante
+            double kreisRadius = 5.0;
+            double flaeche = Pi * kreisRadius * kreisRadius;
+            Console.WriteLine("Die Fläche des Kreises mit Radius " + kreisRadius + " ist: " + flaeche);
+
+            // Änderung der Variablenwerte
+            alter += 1; // erhöht das Alter um 1
+
+            // Aktualisierte Werte ausgeben
+            Console.WriteLine("Neues Alter: " + alter);
+        }
+    }
+}
+
