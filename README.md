@@ -14,7 +14,7 @@
 
 - [x] ausführbares Programm
 - [x] Aufbau erklären
-- 
+
 [Lösung](./Code_1/Program.cs)
 
 ### Kontrollstrukturen
