@@ -16,11 +16,11 @@ namespace BeispielApp
         static void Main(string[] args)
         {
             // Verschiedene Datentypen und Variablen
-            int alter = 16;                     // Ganzzahl
-            double Note = 5.5;           // Gleitkommazahl
-            bool Schülerausweis = true;             // Boolescher Wert
-            char initial = 'A';                 // Einzelnes Zeichen
-            string name = "Lasse";               // Zeichenkette
+            int alter = 16;                          // Ganzzahl
+            double Note = 5.5;                       // Gleitkommazahl
+            bool Schülerausweis = true;              // Boolescher Wert
+            char initial = 'A';                      // Einzelnes Zeichen
+            string name = "Lasse";                   // Zeichenkette
             //Anweisungen durch Semikolon getrennt
 
             // Ausgabe der Variablen
