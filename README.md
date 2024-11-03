@@ -1,5 +1,18 @@
 # Modul_319
 
+## Handlungsziel 1
+
+### Problem- und Lösungsraum
+
+- [ ] Unterschied von Problem- und Lösungsraum mit Beispiel
+- [ ] 3 Gründe, warum Trennung von Problem- und Lösungsraum sinnvoll ist
+
+### Anforderungsanalyse
+
+- [ ] Zweck und Aufbau einer Anforderungsanalyse mit Beispiel erklären.
+- [ ] Wie bettet sich Anforderungsanalyse in Testkonzept ein? Beispiel?
+- [ ] Eigene Anforderungsanalyse mit selbst formulierter Problemstellung
+
 ## Handlungsziel 2
 
 ### Datentypen
@@ -8,18 +21,30 @@
 - [ ] Einsatz von 5 Datentype mit Beispiel erklären
 - [ ] Datentypen für erforderliche Daten einer Problemstellung einsetzen
 
+### EVA Prinzip
+
+- [ ] Mit Code-Beispiel erklären
+
+## Handlungsziel 3
+
+### Programmablaufplan
+
+- [ ] Sinn und Zweck mit Beispiel erklären
+- [ ] 6 Elemente nach DIN 66001 in eigenem Beispiel einsetzen und erklären
+- [ ] aus eigener Anforderung einen Programmablaufplan erstellen
+
 ## Handlungsziel 4
 
 ### Ausführbares Programm in C#, Aufbau erklären
 
-- [x] ausführbares Programm
-- [x] Aufbau erklären
+- [x] ausführbares Programm erstellen
+- [x] Aufbau von Programm mit Konsolenanwendung erklären
 
 [Lösung](./Code_1/Program.cs)
 
 ### Kontrollstrukturen
 
-- [ ] Einsatzzweck von Alternation und Iteration erklären
+- [ ] Einsatzzweck von Alternation und Iteration mit Beispiel erklären
 - [ ] Unterschied zwischen kopf-, fussgesteuerter- und Zähliteration mit Beispiel in C#
 
 ### Variablen und Konstanten
