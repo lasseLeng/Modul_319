@@ -1,12 +1,18 @@
-﻿using System;
+﻿//Bibliotheken, die Funktionen zur Verfügung stellen
+using System;
 
+//Namensbereich, Container für Organisation des Codes
 namespace BeispielApp
 {
+    //Codeblock, durch geschweifte Klammern begrenzt
+    //Klasse, beinhaltet Code für Daten und Algorithmen
     class Program
     {
         // Konstante
         const double Pi = 3.14159;
 
+        //Methode, eine Funktion, die ausgeführt werden kann
+        //Main-Methode, hier startet die Anwendung
         static void Main(string[] args)
         {
             // Verschiedene Datentypen und Variablen
@@ -15,6 +21,7 @@ namespace BeispielApp
             bool Schülerausweis = true;             // Boolescher Wert
             char initial = 'A';                 // Einzelnes Zeichen
             string name = "Lasse";               // Zeichenkette
+            //Anweisungen durch Semikolon getrennt
 
             // Ausgabe der Variablen
             Console.WriteLine("Name: " + name);
