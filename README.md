@@ -10,11 +10,12 @@
 
 ## Handlungsziel 4
 
-### Ausführbares Programm in C#, Aufbau erkl�ren
+### Ausführbares Programm in C#, Aufbau erklären
 
 - [x] ausführbares Programm
 - [x] Aufbau erklären
-[L�sung](./Code_1/Program.cs)
+- 
+[Lösung](./Code_1/Program.cs)
 
 ### Kontrollstrukturen
 
