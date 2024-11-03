@@ -2,7 +2,7 @@
 using System;
 
 //Namensbereich, Container für Organisation des Codes
-namespace BeispielApp
+namespace Code1
 {
     //Codeblock, durch geschweifte Klammern begrenzt
     //Klasse, beinhaltet Code für Daten und Algorithmen
