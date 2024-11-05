@@ -19,7 +19,7 @@ class Program
         Console.Write("Gib die OBA-Punkte für Portfolioartikel ein: ");
         double obaPunktePortfolio = Convert.ToDouble(Console.ReadLine());
 
-        double obaNote = (obaPunkte1 + obaPunkte2 + obaPunktePortfolio) / 3.0;
+        double obaNote = (((obaPunkte1 * 0.25) + (obaPunkte2 * 0.25) + (obaPunktePortfolio * 0.50)) / 3.0) * 5 + 1;
 
         double modulNote = (lbNote * 0.8) + (obaNote * 0.2);
 
