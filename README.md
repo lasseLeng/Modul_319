@@ -25,7 +25,9 @@
 
 ### EVA Prinzip
 
-- [ ] Mit Code-Beispiel erklären
+- [x] Mit Code-Beispiel erklären
+
+[Lösung](./HZ2_EVA/Program.cs)
 
 ## Handlungsziel 3
 
