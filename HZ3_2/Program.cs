@@ -19,9 +19,10 @@ class Program
         Console.Write("Gib die OBA-Punkte für Portfolioartikel ein: ");
         double obaPunktePortfolio = Convert.ToDouble(Console.ReadLine());
 
-        double obaNote = (((obaPunkte1 * 0.25) + (obaPunkte2 * 0.25) + (obaPunktePortfolio * 0.50)) / 3.0) * 5 + 1;
-
-        double modulNote = (lbNote * 0.8) + (obaNote * 0.2);
+        double obaNote= (((obaPunkte1 * 0.25) + (obaPunkte2 * 0.25) + (obaPunktePortfolio * 0.50)) / 3.0) * 5 + 1;
+     
+        double modulNoteungerundet = (lbNote * 0.8) + (obaNote * 0.2);
+        double modulNote = Math.Round(modulNoteungerundet * 2, MidpointRounding.AwayFromZero) / 2;
 
         Console.WriteLine($"Du hast im Modul M{modulNummer} die Note {modulNote:F2} erreicht. Diese setzt sich folgendermassen zusammen:");
         Console.WriteLine($"LB-Note (80%): {lbNote}");
