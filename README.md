@@ -18,8 +18,10 @@
 ### Datentypen
 
 - [ ] Erklären, was ein Datentyp ist
-- [ ] Einsatz von 5 Datentype mit Beispiel erklären
-- [ ] Datentypen für erforderliche Daten einer Problemstellung einsetzen
+- [x] Einsatz von 5 Datentype mit Beispiel erklären
+- [x] Datentypen für erforderliche Daten einer Problemstellung einsetzen
+
+[Lösung](./Code_1/Program.cs)
 
 ### EVA Prinzip
 
