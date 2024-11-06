@@ -37,6 +37,8 @@
 - [ ] 6 Elemente nach DIN 66001 in eigenem Beispiel einsetzen und erklären
 - [ ] aus eigener Anforderung einen Programmablaufplan erstellen
 
+[Lösung](./PAP)
+
 ## Handlungsziel 4
 
 ### Ausführbares Programm in C#, Aufbau erklären
