@@ -77,3 +77,39 @@
 
 - [ ] Beispiel mit Erklärung, warum Array die richtige Wahl
 - [ ] Eindimensionales Array deklarieren, Werte schreiben und lesen
+
+## Handlungsziel 5
+
+### Konventionen
+
+- [ ] Beispiel mit 3 Code Bereichen wo Konventionen angewendet wurden
+- [ ] Bedeutung und Zweck von Konventionen anhand von Beispiel
+- [ ] Programmcode anhand vorgegebener Konventionen umsetzen
+
+### Kommentare
+
+- [ ] Einsatz von Kommentaren anhand eines Beispiels
+- [ ] Je 2 Vor- und Nachteile von Kommentaren mit konkreter Situation
+- [ ] Programm mit sinnvollen Kommentaren versehen
+
+## Handlungsziel 6
+
+### Programmierfehler
+
+- [ ] 3 Arten von Programmierfehler mit Beispiel aufzählen
+- [ ] korrekte Hilfsmittel für zur Behebung für die 3 Arten von Programmierfehlern mit Beispiel
+
+### Debugger
+
+- [ ] Zweck eines Debuggers mit Beispiel
+- [ ] Verwendung eines Debuggers mit Beispiel erläutern
+- [ ] Mit Beispiel aufzeigen, wie ich Anhand eines Debuggers einen Fehler finde
+
+### Tests
+
+- [ ] Verfahren eines statischen Tests mit Beispiel
+- [ ] Bedeutung für Software Qualität erläutern
+- [ ] Zweck Aufbau einer Testspezifikation mit Beispiel erklären. Wie better such diese in Testkonzept ein?
+- [ ] Zweck und Aufbau einer Testprotokolls erklären. Wie passte dieses in das Testkonzeot?
+- [ ] sinvolle Testfalle aus Aunforderungsanalyse ableiten
+- [ ] Anhand eines Tesfallsoezifikation Tests durchführen, protokollieren und Fazit formulieren
