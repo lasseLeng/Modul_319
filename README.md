@@ -7,7 +7,7 @@
 - [x] Unterschied von Problem- und Lösungsraum mit Beispiel
 - [x] 3 Gründe, warum Trennung von Problem- und Lösungsraum sinnvoll ist
 
-[Lösung](Problem_Lösungsraum\README.md)
+[Lösung](./Problem_Lösungsraum\README.md)
 ### Anforderungsanalyse
 
 - [x] Zweck und Aufbau einer Anforderungsanalyse mit Beispiel erklären.
