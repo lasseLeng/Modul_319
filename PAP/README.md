@@ -20,8 +20,7 @@ Im Typ wird beschrieben, um welche Art von Anforderung es sich handelt. Zum Beis
 
 Dann gibt es noch Randbedingungen. Diese regeln alles rund um den Auftrag, beispielsweise in welcher Programmiersprache die Anwendung geschrieben sein soll oder bis wann sie fertig sein muss.
 
-
-
+Aus diesen Anforderungen erstellt der Entwickler anschlieﬂend einen PAP (Programmablaufplan), in dem das Programm, das sp‰ter programmiert werden muss, grafisch nach bestimmten Richtlinien dargestellt wird.
 ![PAP](Screenshot_2024-11-06_184858.png)
 ![PAP](Screenshot_2024-11-06_184907.png)
 

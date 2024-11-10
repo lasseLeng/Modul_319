@@ -4,9 +4,10 @@
 
 ### Problem- und Lösungsraum
 
-- [ ] Unterschied von Problem- und Lösungsraum mit Beispiel
-- [ ] 3 Gründe, warum Trennung von Problem- und Lösungsraum sinnvoll ist
+- [x] Unterschied von Problem- und Lösungsraum mit Beispiel
+- [x] 3 Gründe, warum Trennung von Problem- und Lösungsraum sinnvoll ist
 
+[Lösung](Problem_Lösungsraum\README.md)
 ### Anforderungsanalyse
 
 - [x] Zweck und Aufbau einer Anforderungsanalyse mit Beispiel erklären.
@@ -19,7 +20,7 @@
 
 ### Datentypen
 
-- [ ] Erklären, was ein Datentyp ist
+- [x] Erklären, was ein Datentyp ist
 - [x] Einsatz von 5 Datentype mit Beispiel erklären
 - [x] Datentypen für erforderliche Daten einer Problemstellung einsetzen
 
@@ -35,7 +36,7 @@
 
 ### Programmablaufplan
 
-- [ ] Sinn und Zweck mit Beispiel erklären
+- [x] Sinn und Zweck mit Beispiel erklären
 - [x] 6 Elemente nach DIN 66001 in eigenem Beispiel einsetzen und erklären
 - [x] aus eigener Anforderung einen Programmablaufplan erstellen
 
