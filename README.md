@@ -9,9 +9,11 @@
 
 ### Anforderungsanalyse
 
-- [ ] Zweck und Aufbau einer Anforderungsanalyse mit Beispiel erklären.
+- [x] Zweck und Aufbau einer Anforderungsanalyse mit Beispiel erklären.
 - [ ] Wie bettet sich Anforderungsanalyse in Testkonzept ein? Beispiel?
 - [ ] Eigene Anforderungsanalyse mit selbst formulierter Problemstellung
+
+[Lösung](./PAP)
 
 ## Handlungsziel 2
 
@@ -34,8 +36,8 @@
 ### Programmablaufplan
 
 - [ ] Sinn und Zweck mit Beispiel erklären
-- [ ] 6 Elemente nach DIN 66001 in eigenem Beispiel einsetzen und erklären
-- [ ] aus eigener Anforderung einen Programmablaufplan erstellen
+- [x] 6 Elemente nach DIN 66001 in eigenem Beispiel einsetzen und erklären
+- [x] aus eigener Anforderung einen Programmablaufplan erstellen
 
 [Lösung](./PAP)
 

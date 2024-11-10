@@ -14,6 +14,12 @@ Ein Auftraggeber will ein Programm womit er schnell und einfach ermitteln kann o
 | 8        | Randbedingung | Das Programm soll in C# geschrieben sein.                                           |
 
 
+Wir haben eine Tabelle, in der verschiedene Sachen beschrieben sind. Wir haben mehrere Anforderungen. Jede Anforderung hat eine Anforderungsnummer, einen Typ und eine kurze Beschreibung der Anforderung. Die Anforderungsnummer dient nur zur Strukturierung der Anforderungen.
+
+Im Typ wird beschrieben, um welche Art von Anforderung es sich handelt. Zum Beispiel gibt es funktionale Anforderungen, die etwas mit der Funktion der Anwendung zu tun haben. Außerdem gibt es noch Qualitätsanforderungen; diese betreffen die Qualität der Anwendung. Das Programm würde auch ohne diese Anforderungen laufen, wäre dann aber beispielsweise nicht so benutzerfreundlich.
+
+Dann gibt es noch Randbedingungen. Diese regeln alles rund um den Auftrag, beispielsweise in welcher Programmiersprache die Anwendung geschrieben sein soll oder bis wann sie fertig sein muss.
+
 
 
 ![PAP](Screenshot_2024-11-06_184858.png)
