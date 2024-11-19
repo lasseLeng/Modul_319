@@ -78,6 +78,8 @@
 - [ ] Beispielfunktion mit Erläuterung von Aufbau (Name, Rückgabetyp, Parameter, Signatur)
 - [ ] Beispiel mit Auslagern von Programmcode in eine Funktion
 
+[Lösung](./HZ4_3)
+
 ### Datentyp Array
 
 - [ ] Beispiel mit Erklärung, warum Array die richtige Wahl
