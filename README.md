@@ -61,9 +61,9 @@
 ### Variablen und Konstanten
 
 - [ ] Zweck und Einsatz erklären
-- [ ] 3 unterschiedliche Gültigkietsbereiche in Code erklären
+- [ ] 3 unterschiedliche Gültigkeitsbereiche in Code erklären
 
-### Editor Und Entwickungsumgebung
+### Editor Und Entwicklungsumgebung
 
 - [ ] Unterschied erklären
 

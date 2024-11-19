@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Threading;
+using System.Diagnostics;
 
 class Program
 {
@@ -29,4 +30,5 @@ class Program
                 break;
         }
     }
+    
 }
