@@ -105,7 +105,7 @@
 
 ### Programmierfehler
 
-- [ ] 3 Arten von Programmierfehler mit Beispiel aufzählen
+- [x] 3 Arten von Programmierfehler mit Beispiel aufzählen
 - [ ] korrekte Hilfsmittel für zur Behebung für die 3 Arten von Programmierfehlern mit Beispiel
 
 [Lösung](./Fehler)
