@@ -17,6 +17,7 @@ namespace Code1
         static void Main(string[] args)
         {
             // Verschiedene Datentypen und Variablen
+            // Der Datentyp legt fest, welche art von Daten in der Variable gespeichert werden.
             int alter = 16;                          // Ganzzahl
             double Note = 5.5;                       // Gleitkommazahl
             bool Schülerausweis = true;              // Boolescher Wert
