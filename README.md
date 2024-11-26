@@ -11,10 +11,10 @@
 ### Anforderungsanalyse
 
 - [x] Zweck und Aufbau einer Anforderungsanalyse mit Beispiel erklären.
-- [ ] Wie bettet sich Anforderungsanalyse in Testkonzept ein? Beispiel?
-- [ ] Eigene Anforderungsanalyse mit selbst formulierter Problemstellung
+- [x] Wie bettet sich Anforderungsanalyse in Testkonzept ein? Beispiel?
+- [x] Eigene Anforderungsanalyse mit selbst formulierter Problemstellung
 
-[Lösung](./PAP)
+[Lösung](./Anforderungsanalyse)
 
 ## Handlungsziel 2
 
