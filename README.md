@@ -99,13 +99,13 @@
 - [ ] Je 2 Vor- und Nachteile von Kommentaren mit konkreter Situation
 - [x] Programm mit sinnvollen Kommentaren versehen
 
-[Lösung](./HZ2_EVA/Program.cs)
+[Lösung](./HZ2_EVA)
 
 ## Handlungsziel 6
 
 ### Programmierfehler
 
-- [ ] 3 Arten von Programmierfehler mit Beispiel aufzählen
+- [x] 3 Arten von Programmierfehler mit Beispiel aufzählen
 - [ ] korrekte Hilfsmittel für zur Behebung für die 3 Arten von Programmierfehlern mit Beispiel
 
 [Lösung](./Fehler)
