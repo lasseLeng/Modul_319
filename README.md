@@ -63,14 +63,20 @@
 - [ ] Zweck und Einsatz erklären
 - [ ] 3 unterschiedliche Gültigkeitsbereiche in Code erklären
 
+[Lösung](./HZ4_4)
+
 ### Editor Und Entwicklungsumgebung
 
 - [ ] Unterschied erklären
+
+[Lösung](./HZ4_5)
 
 ### Fehler und Warnmeldungen
 
 - [ ] Unterschied erklären
 - [ ] Zeigen, wie ich damit umgehe
+
+[Lösung](./HZ4_6)
 
 ### Funktionen
 
@@ -83,7 +89,9 @@
 ### Datentyp Array
 
 - [ ] Beispiel mit Erklärung, warum Array die richtige Wahl
-- [ ] Eindimensionales Array deklarieren, Werte schreiben und lesen
+- [x] Eindimensionales Array deklarieren, Werte schreiben und lesen
+
+[Lösung](./Array)
 
 ## Handlungsziel 5
 
@@ -92,6 +100,8 @@
 - [ ] Beispiel mit 3 Code Bereichen wo Konventionen angewendet wurden
 - [ ] Bedeutung und Zweck von Konventionen anhand von Beispiel
 - [ ] Programmcode anhand vorgegebener Konventionen umsetzen
+
+[Lösung](./Konventionen)
 
 ### Kommentare
 
@@ -109,11 +119,14 @@
 - [ ] korrekte Hilfsmittel für zur Behebung für die 3 Arten von Programmierfehlern mit Beispiel
 
 [Lösung](./Fehler)
+
 ### Debugger
 
 - [ ] Zweck eines Debuggers mit Beispiel
 - [ ] Verwendung eines Debuggers mit Beispiel erläutern
 - [ ] Mit Beispiel aufzeigen, wie ich Anhand eines Debuggers einen Fehler finde
+
+[Lösung](./Debugger)
 
 ### Tests
 
