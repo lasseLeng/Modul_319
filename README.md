@@ -61,13 +61,13 @@
 ### Variablen und Konstanten
 
 - [ ] Zweck und Einsatz erklären
-- [ ] 3 unterschiedliche Gültigkeitsbereiche in Code erklären
+- [x] 3 unterschiedliche Gültigkeitsbereiche in Code erklären
 
 [Lösung](./HZ4_4)
 
 ### Editor Und Entwicklungsumgebung
 
-- [ ] Unterschied erklären
+- [x] Unterschied erklären
 
 [Lösung](./HZ4_5)
 
