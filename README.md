@@ -73,7 +73,7 @@
 
 ### Fehler und Warnmeldungen
 
-- [ ] Unterschied erklären
+- [x] Unterschied erklären
 - [ ] Zeigen, wie ich damit umgehe
 
 [Lösung](./HZ4_6)
