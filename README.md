@@ -138,3 +138,7 @@
 - [ ] Anhand eines Tesfallspezifikation Tests durchführen, protokollieren und Fazit formulieren
 
 [Lösung](./Tests)
+
+### Fazit
+
+[Lösung](./Fazit)
