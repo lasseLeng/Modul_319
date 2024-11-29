@@ -74,13 +74,13 @@
 ### Fehler und Warnmeldungen
 
 - [x] Unterschied erklären
-- [ ] Zeigen, wie ich damit umgehe
+- [x] Zeigen, wie ich damit umgehe
 
 [Lösung](./HZ4_6)
 
 ### Funktionen
 
-- [ ] 3 Gründe nennen, warum das sinnvoll ist
+- [x] 3 Gründe nennen, warum das sinnvoll ist
 - [x] Beispielfunktion mit Erläuterung von Aufbau (Name, Rückgabetyp, Parameter, Signatur)
 - [x] Beispiel mit Auslagern von Programmcode in eine Funktion
 
@@ -88,7 +88,7 @@
 
 ### Datentyp Array
 
-- [ ] Beispiel mit Erklärung, warum Array die richtige Wahl
+- [x] Beispiel mit Erklärung, warum Array die richtige Wahl
 - [x] Eindimensionales Array deklarieren, Werte schreiben und lesen
 
 [Lösung](./Array)
@@ -106,7 +106,7 @@
 ### Kommentare
 
 - [x] Einsatz von Kommentaren anhand eines Beispiels
-- [ ] Je 2 Vor- und Nachteile von Kommentaren mit konkreter Situation
+- [x] Je 2 Vor- und Nachteile von Kommentaren mit konkreter Situation
 - [x] Programm mit sinnvollen Kommentaren versehen
 
 [Lösung](./HZ2_EVA)
@@ -116,7 +116,7 @@
 ### Programmierfehler
 
 - [x] 3 Arten von Programmierfehler mit Beispiel aufzählen
-- [ ] korrekte Hilfsmittel für zur Behebung für die 3 Arten von Programmierfehlern mit Beispiel
+- [x] korrekte Hilfsmittel für zur Behebung für die 3 Arten von Programmierfehlern mit Beispiel
 
 [Lösung](./Fehler)
 
@@ -135,7 +135,7 @@
 - [ ] Zweck Aufbau einer Testspezifikation mit Beispiel erklären. Wie bettet sich diese in ein Testkonzept ein?
 - [ ] Zweck und Aufbau einer Testprotokolls erklären. Wie passte dieses in das Testkonzept?
 - [ ] Sinvolle Testfalle aus Anforderungsanalyse ableiten
-- [ ] Anhand eines Tesfallspezifikation Tests durchführen, protokollieren und Fazit formulieren
+- [ ] Anhand einer Tesfallspezifikation Tests durchführen, protokollieren und Fazit formulieren
 
 [Lösung](./Tests)
 
