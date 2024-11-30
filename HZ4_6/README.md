@@ -1,5 +1,5 @@
-Der Haupt unterschied zwischen Fehlern und Warnmeldungen ist, dass Fehler behoben werden müssen damit das Programm funktionieren kann wohingegen Warnmeldungen auch ignoriert werden können ihne das es einfluss auf das fertige programm hätte. Jedoch sagen warnmeldungen auch immer etwas was verbessert werden kann wie zum Beispiel eine exestierende variable die niergens benutzt wird.
+Der Hauptunterschied zwischen Fehlern und Warnmeldungen ist, dass Fehler behoben werden mÃ¼ssen, damit das Programm funktionieren kann. Warnmeldungen hingegen kÃ¶nnen auch ignoriert werden, ohne dass es Einfluss auf das fertige Programm hÃ¤tte. Jedoch sagen Warnmeldungen auch immer etwas darÃ¼ber aus, was verbessert werden kann, wie z.B. eine existierende Variable, die nirgends benutzt wird.
 
-Wenn wir einen Fehler angezeigt bekommen sollten wir umgehend schauen was genau das Problem ist und dieses beheben.
+Wenn wir einen Fehler angezeigt bekommen, sollten wir umgehend schauen, was genau das Problem ist und dieses beheben.
 
-Sollten wir eine Warnmeldung bekommen müssen wir nicht Zwingen direkt oder überhaupt darauf reagieren. Jedoch empfiehlt es sich die Warnmeldung doch einmal genauer anzuschauen.
+Sollten wir eine Warnmeldung bekommen, mÃ¼ssen wir nicht zwingend direkt oder Ã¼berhaupt darauf reagieren. Jedoch empfiehlt es sich, die Warnmeldung doch einmal genauer anzuschauen.
