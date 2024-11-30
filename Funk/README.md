@@ -1,5 +1,5 @@
-Funktionen erlauben uns Code aus zu lagern.
+Funktionen erlauben uns Code auszulagern.
 
-Sie machen den Code wehsentlich übersichtlicher.
+Sie machen den Code wesentlich Ã¼bersichtlicher.
 
-Man kann sie im Code mehrmals verwenden ohne jedesmal den Code wieder Stark verlängern zu müssen.
+Man kann sie im Code mehrmals verwenden, ohne jedesmal den Code wieder stark verlÃ¤ngern zu mÃ¼ssen.
