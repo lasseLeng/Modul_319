@@ -8,6 +8,7 @@
 - [x] 3 Gründe, warum Trennung von Problem- und Lösungsraum sinnvoll ist
 
 [Lösung](./Problem_Lösungsraum)
+
 ### Anforderungsanalyse
 
 - [x] Zweck und Aufbau einer Anforderungsanalyse mit Beispiel erklären.
@@ -97,9 +98,9 @@
 
 ### Konventionen
 
-- [ ] Beispiel mit 3 Code Bereichen wo Konventionen angewendet wurden
-- [ ] Bedeutung und Zweck von Konventionen anhand von Beispiel
-- [ ] Programmcode anhand vorgegebener Konventionen umsetzen
+- [x] Beispiel mit 3 Code Bereichen wo Konventionen angewendet wurden
+- [x] Bedeutung und Zweck von Konventionen anhand von Beispiel
+- [x] Programmcode anhand vorgegebener Konventionen umsetzen
 
 [Lösung](./Konventionen)
 
