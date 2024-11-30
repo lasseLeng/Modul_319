@@ -1,2 +1,2 @@
-Ich habe hier ein Array verwendet, da ich denke das es hier die beste wahl ist, da ich mehrere verschiedene werte speichern und Später wieder ausgeben will.
-Wenn ich hier Variablen benutzen würde müsste ich sehr viele verwenden was dazu führt das der Code schnell unübersichtlich wird.
+Ich habe hier ein Array verwendet, da ich denke, dass es hier die beste Wahl ist, da ich mehrere verschiedene Werte speichern und spÃ¤ter wieder ausgeben will.
+Wenn ich hier Variablen benutzen wÃ¼rde, mÃ¼sste ich sehr viele verwenden, was dazu fÃ¼hrt, dass der Code schnell unÃ¼bersichtlich wird.
