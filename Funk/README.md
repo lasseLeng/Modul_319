@@ -1,5 +1,5 @@
-Funktionen erlauben uns Code auszulagern.
+1. Funktionen erlauben uns Code auszulagern.
 
-Sie machen den Code wesentlich übersichtlicher.
+2. Sie machen den Code wesentlich übersichtlicher.
 
-Man kann sie im Code mehrmals verwenden, ohne jedesmal den Code wieder stark verlängern zu müssen.
+3. Man kann sie im Code mehrmals verwenden, ohne jedes Mal den Code wieder stark verlängern zu müssen.
