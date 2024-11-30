@@ -43,7 +43,7 @@ class SchulnotenProgramm
             Console.WriteLine($"Der Durchschnitt der Noten ist: {durchschnitt:F2}");
             Console.WriteLine($"Ihre Leistung wird als '{bewertung}' bewertet.");
         }
-
+        
         Console.WriteLine("Vielen Dank fürs Benutzen des Programms!");
     }
 
