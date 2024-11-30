@@ -1,18 +1,17 @@
 
 ![Fehler](Screenshot_2024-11-26_110930.png)
 
-In diesem Bild kann man drei verschiedene Programier fehler entdecken. 
-Diese sind mit Roten rahmen Markiert. 
+In diesem Bild kann man drei verschiedene Programierfehler entdecken. Diese sind mit roten Rahmen markiert. 
 
-Beim ersten fehler wurde das Semikolon vergessen das den Befehl abschliest. 
+Beim ersten Fehler wurde das Semikolon vergessen, das den Befehl abschliesst. 
 
-Bei dem zweiten fehler kann man nach kurzer Überlegung erkennen, das hier die Konvertierung vergessen wurde.
-Bei dem Datentyp handelt es saich um einen double, jedoch wird hier die Eingabe genutzt um diese Variable zu füllen. Eingaben sind Grundsätzlich immer ein String, was bedeutet, dass hier noch konvertiert werden muss.
+Bei dem zweiten Fehler kann man nach kurzer Ãœberlegung erkennen, dass hier die Konvertierung vergessen wurde.
+Bei dem Datentyp handelt es sich um einen double, jedoch wird hier die Eingabe genutzt, um diese Variable zu fÃ¼llen. Eingaben sind grundsÃ¤tzlich immer ein String, was bedeutet, dass hier noch konvertiert werden muss.
 
-Bei dem dritten fehler, wurde die abschliessende Klammer der Funktion vergessen. Dies ist wichtig da so die gültigkeits bereiche der Funktionen, Variablen, Konstanten, usw definiert werden.
+Bei dem dritten Fehler wurde die abschliessende Klammer der Funktion vergessen. Dies ist wichtig, da so die GÃ¼ltigkeitsbereiche der Funktionen, Variablen, Konstanten, usw. definiert werden.
 
-Wir Können Fehler mit verschiedenen arten finden. Einmal mit den Fehlermeldungen die uns auch zeigen wo der Fehler ist.
+Wir kÃ¶nnen Fehler auf verschiedene Arten finden. Einmal mit den Fehlermeldungen, die uns auch zeigen, wo der Fehler ist.
 
-Oder mit den Warnmeldungen diese zeigen uns auch wo die warnung liegt.
+Oder mit den Warnmeldungen. Diese zeigen uns auch, wo die Warnung liegt.
 
-Sollte all dies nicht helfen gibt es noch den Debugger auf den ich im Verzeichniss "Debugger" genauer eingehen werde.
+Sollte all dies nicht helfen, gibt es noch den Debugger, auf den ich im Verzeichniss "Debugger" genauer eingehen werde.
