@@ -24,8 +24,70 @@ Testprotokoll:
 | 4          | 4.1            | 27.11.2024  | Lasse Lengacher  | OK         |             | ll         |
 | 5          | 5.1            | 27.11.2024  | Lasse Lengacher  | OK         |             | ll         |
 | 6          | 6.1            | 28.11.2024  | Lasse Lengacher  | OK         |             | ll         |
-| 7          | 7.1            | 29.11.2024  | Lasse Lengacher  | OK         |             | ll         |
+| 7          | 7.1            |             |                  |            |             |            |
 
 Im Testprotokoll sind alle Tests mit dem Ergebnis, dem Datum, der Testnummer, einer Bemerkung, und dem Tester der den Test durchgeführt hat.
                        
 Testspezifikationen:
+
+In den Testfallspezifikationen ist jeder im Testprotokoll aufgelisteter Test noch einmal genauer beschrieben.
+
+Testnummer: 1
+
+Testfallnummer: 1.1
+
+Anforderung: 1
+
+Man soll einen beliebigen Preis angeben können.
+
+
+Testnummer: 2
+
+Testfallnummer: 2.1
+
+Anforderung: 2
+
+Man soll eine beliebige Größe angeben können.
+
+
+Testnummer: 3
+
+Testfallnummer: 3.1
+
+Anforderung: 3
+
+Man soll einen beliebigen Maximalpreis angeben können.
+
+
+Testnummer: 4
+
+Testfallnummer: 4.1
+
+Anforderung: 4
+
+Der Wert des gesamten Grundstücks soll berechnet werden, inklusive Mehrwertsteuer.
+
+
+Testnummer: 5
+
+Testfallnummer: 5.1
+
+Anforderung: 5
+
+Es soll geprüft werden, ob der Gesamtpreis mit Mehrwertsteuer im Rahmen des Maximalpreises liegt.
+
+
+Testnummer: 6
+
+Testfallnummer: 6.1
+
+Anforderung: 6
+
+Sollte der Preis nicht übereinstimmen, soll dies angezeigt werden und das Programm soll von vorne beginnen.
+
+
+In der Testdokumentation wird der genaue Ablauf der durchführung der Tests notiert.
+
+Im Testbericht schreibt der Tester eine art Fazit oder Reflextion in der er die Tests für sich Reflektiert.
+
+
