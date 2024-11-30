@@ -2,3 +2,5 @@ Variablen und Konstanzen werden genutzt um Daten zwischen zu speichern. Variable
 
 Gültigkeitsbereiche:
 ![HZ4_4](Screenshot_2024-11-30_104112.png)
+
+Im Code Beispiel /HZ4_4/Program.cs Sind Variablen und Konstanten mit verschiedenen Gültigkeitsbereichen zu sehen. In dem Screenshot den ich von diesem Code beispiel gemacht habe, habe ich in verschiedenen Farben diese Gültigkeitsbereiche Markiert Jede Variable oder Konstante die in einer Eigenen Farbe ist, hat einen andern Gültigkeitsbereich.
