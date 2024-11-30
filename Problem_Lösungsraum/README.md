@@ -1,13 +1,13 @@
 # Der Problemraum
 Ist bezogen auf die Kundenanforderungen und konzentriert sich vor allem auf:
 
-Daten
+* Daten
 
-Prozesse
+* Prozesse
 
-Abläufe
+* Abläufe
 
-Organisatorisches
+* Organisatorisches
 
 # Der Lösungsraum
 Ist bezogen auf die optimale Umsetzung der Kundenanforderung und konzentriert sich vor allem auf Technisches wie:
