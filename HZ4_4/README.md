@@ -1,6 +1,6 @@
-Variablen und Konstanzen werden genutzt um Daten zwischen zu speichern. Variablen werden meistens für kurzzeitige zwischenspeicherung zum beispiel von eingelesenen werten genutzt. Konstanzen werden von Entwicklern benutzt wenn beispielsweise ein wert oft im Code verwendet wird machen sie für diesen wert eine Konstante anstatt jedes mal den wert an zu geben, dies hat den Vorteil, dass bei einer Änderung nur die Konstante geändert werden muss und man nicht überall im Code jedes mal den wert ändern muss.
+Variablen und Konstanten werden genutzt, um Daten zwischenzuspeichern. Variablen werden meistens fÃ¼r kurzzeitige Zwischenspeicherung, z. B. von eingelesenen Werten genutzt. Konstanten werden von Entwicklern benutzt, wenn beispielsweise ein Wert oft im Code verwendet wird. Dann erstellen sie fÃ¼r diesen Wert eine Konstante, anstatt jedes Mal den Wert anzugeben. Dies hat den Vorteil, dass bei einer Ã„nderung nur die Konstante geÃ¤ndert werden muss und man nicht Ã¼berall im Code jedes Mal den Wert Ã¤ndern muss.
 
-Gültigkeitsbereiche:
+GÃ¼ltigkeitsbereiche:
 ![HZ4_4](Screenshot_2024-11-30_104112.png)
 
-Im Code Beispiel /HZ4_4/Program.cs Sind Variablen und Konstanten mit verschiedenen Gültigkeitsbereichen zu sehen. In dem Screenshot den ich von diesem Code beispiel gemacht habe, habe ich in verschiedenen Farben diese Gültigkeitsbereiche Markiert Jede Variable oder Konstante die in einer Eigenen Farbe ist, hat einen andern Gültigkeitsbereich.
+Im Code Beispiel /HZ4_4/Program.cs sind Variablen und Konstanten mit verschiedenen GÃ¼ltigkeitsbereichen zu sehen. In dem Screenshot, den ich von diesem Codebeispiel gemacht habe, habe ich in verschiedenen Farben diese GÃ¼ltigkeitsbereiche markiert. Jede Variable oder Konstante, die in einer eigenen Farbe ist, hat einen anderen GÃ¼ltigkeitsbereich.
