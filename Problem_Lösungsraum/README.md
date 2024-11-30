@@ -12,13 +12,13 @@ Ist bezogen auf die Kundenanforderungen und konzentriert sich vor allem auf:
 # Der Lösungsraum
 Ist bezogen auf die optimale Umsetzung der Kundenanforderung und konzentriert sich vor allem auf Technisches wie:
 
-Sprache
+* Sprache
 
-Technologien
+* Technologien
 
-Werkzeuge
+* Werkzeuge
 
-Hilfsmittel
+* Hilfsmittel
 
 Durch die Trennung von Problem- und Lösungsraum können viele Dinge verbessert werden, wie eine effizientere Entwicklung, eine höhere Qualität und vor allem eine optimale Ressourcennutzung, da die Abstimmung zwischen Auftraggeber und Kunde besser gewährleistet ist.
 
