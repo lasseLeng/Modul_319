@@ -1,9 +1,9 @@
-Im Beispielcode HZ2_EVA/Program.cs sind für die beschreibung des Codes sogenannte Kommentare eingebaut.
+Im Beispielcode HZ2_EVA/Program.cs sind fÃ¼r die Beschreibung des Codes sogenannte Kommentare eingebaut.
 
 Vorteile von Kommentaren:
 
-Man kann mit ihnen schnell und einfach das Programm beschreiben und Erklären. Man kann Beschreibungen und Bemerkungen dierekt beim Betreffenden Code hinzufügen, so das es für den Leser einfacher ist, es zu zuordnen.
+Man kann mit ihnen schnell und einfach das Programm beschreiben und erklÃ¤ren. Man kann Beschreibungen und Bemerkungen direkt beim betreffenden Code hinzufÃ¼gen, sodass es fÃ¼r den Leser einfacher ist, es zuzuordnen.
 
 Nachteile von Kommentaren:
 
-Durch zu viele Kommentare kann der Code sehr schnell unübersichtlich werden. Ausserdem gibt es keine Einheitliche struktur was bedeutet das Übrall im Code Kommentare seien können, die vom leser Leicht übersehen werden können.
+Durch zu viele Kommentare kann der Code sehr schnell unÃ¼bersichtlich werden. Ausserdem gibt es keine einheitliche Struktur, was bedeutet, dass Ã¼berall im Code Kommentare seien kÃ¶nnen, die vom Leser leicht Ã¼bersehen werden kÃ¶nnen.
