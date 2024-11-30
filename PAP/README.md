@@ -1,6 +1,6 @@
 ## Programm Ablauf Plan
 
-Ein Auftraggeber will ein Programm womit er schnell und einfach ermitteln kann ob sich ein Grundstück im Preislich passenden Rahmen befindet.
+Ein Auftraggeber will ein Programm, womit er schnell und einfach ermitteln kann, ob sich ein Grundstück im preislich passenden Rahmen befindet.
 
 | Anf.-Nr. | Typ           | Anforderung                                                                         |
 |----------|---------------|-------------------------------------------------------------------------------------|
@@ -21,7 +21,7 @@ Im Typ wird beschrieben, um welche Art von Anforderung es sich handelt. Zum Beis
 Dann gibt es noch Randbedingungen. Diese regeln alles rund um den Auftrag, beispielsweise in welcher Programmiersprache die Anwendung geschrieben sein soll oder bis wann sie fertig sein muss.
 
 Aus diesen Anforderungen erstellt der Entwickler anschließend einen PAP (Programmablaufplan), in dem das Programm, das später programmiert werden muss, grafisch nach bestimmten Richtlinien dargestellt wird.
-Dies Hilft ihm nichts zu vergessen und das programm besser zu verstehen.
+Dies hilft ihm nichts zu vergessen und das Programm besser zu verstehen.
 
 ![PAP](Screenshot_2024-11-06_184858.png)
 ![PAP](Screenshot_2024-11-06_184907.png)
