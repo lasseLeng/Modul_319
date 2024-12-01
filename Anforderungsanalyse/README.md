@@ -1,4 +1,6 @@
 Ein Auftraggeber will ein Programm, womit er schnell und einfach ermitteln kann, ob sich ein Grundstück im preislich passenden Rahmen befindet.
+dient zum Erfassen der Kundenwünsche und zum festhalten des Inhaltes eines Auftrags.
+
 
 | Anf.-Nr. | Typ           | Anforderung                                                                         |
 |----------|---------------|-------------------------------------------------------------------------------------|

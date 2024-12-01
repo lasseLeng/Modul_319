@@ -4,3 +4,9 @@ Gültigkeitsbereiche:
 ![HZ4_4](Screenshot_2024-11-30_104112.png)
 
 Im Code Beispiel /HZ4_4/Program.cs sind Variablen und Konstanten mit verschiedenen Gültigkeitsbereichen zu sehen. In dem Screenshot, den ich von diesem Codebeispiel gemacht habe, habe ich in verschiedenen Farben diese Gültigkeitsbereiche markiert. Jede Variable oder Konstante, die in einer eigenen Farbe ist, hat einen anderen Gültigkeitsbereich.
+
+Die, die rot markiert sind gelten für die gesammte Klasse.
+
+Die, die blau markiert sind gelten nur für die entsprechende Funktion in meinem Fall die Funktion Main.
+
+Die, die grün markiert sind gelten nur für den entsprechenden Block in dem sie sich befinden.

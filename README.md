@@ -7,7 +7,7 @@
 - [x] Unterschied von Problem- und Lösungsraum mit Beispiel
 - [x] 3 Gründe, warum Trennung von Problem- und Lösungsraum sinnvoll ist
 
-[Lösung](./Problem_Lösungsraum)
+[Lösung](./Problem_Lösungsraum/README.md)
 
 ### Anforderungsanalyse
 
@@ -15,7 +15,7 @@
 - [x] Wie bettet sich Anforderungsanalyse in Testkonzept ein? Beispiel?
 - [x] Eigene Anforderungsanalyse mit selbst formulierter Problemstellung
 
-[Lösung](./Anforderungsanalyse)
+[Lösung](./Anforderungsanalyse/README.md)
 
 ## Handlungsziel 2
 
@@ -41,7 +41,7 @@
 - [x] 6 Elemente nach DIN 66001 in eigenem Beispiel einsetzen und erklären
 - [x] aus eigener Anforderung einen Programmablaufplan erstellen
 
-[Lösung](./PAP)
+[Lösung](./PAP/README.md)
 
 ## Handlungsziel 4
 
@@ -57,27 +57,27 @@
 - [ ] Einsatzzweck von Alternation und Iteration mit Beispiel erklären
 - [x] Unterschied zwischen kopf-, fussgesteuerter- und Zähliteration mit Beispiel in C#
 
-[Lösung](./HZ4_3)
+[Lösung](./HZ4_3/README.md)
 
 ### Variablen und Konstanten
 
 - [x] Zweck und Einsatz erklären
 - [x] 3 unterschiedliche Gültigkeitsbereiche in Code erklären
 
-[Lösung](./HZ4_4)
+[Lösung](./HZ4_4/README.md)
 
 ### Editor Und Entwicklungsumgebung
 
 - [x] Unterschied erklären
 
-[Lösung](./HZ4_5)
+[Lösung](./HZ4_5/README.md)
 
 ### Fehler und Warnmeldungen
 
 - [x] Unterschied erklären
 - [x] Zeigen, wie ich damit umgehe
 
-[Lösung](./HZ4_6)
+[Lösung](./HZ4_6/README.md)
 
 ### Funktionen
 
@@ -85,14 +85,14 @@
 - [x] Beispielfunktion mit Erläuterung von Aufbau (Name, Rückgabetyp, Parameter, Signatur)
 - [x] Beispiel mit Auslagern von Programmcode in eine Funktion
 
-[Lösung](./Funk)
+[Lösung](./Funk/README.md)
 
 ### Datentyp Array
 
 - [x] Beispiel mit Erklärung, warum Array die richtige Wahl
 - [x] Eindimensionales Array deklarieren, Werte schreiben und lesen
 
-[Lösung](./Array)
+[Lösung](./Array/README.md)
 
 ## Handlungsziel 5
 
@@ -102,7 +102,7 @@
 - [x] Bedeutung und Zweck von Konventionen anhand von Beispiel
 - [x] Programmcode anhand vorgegebener Konventionen umsetzen
 
-[Lösung](./Konventionen)
+[Lösung](./Konventionen/README.md)
 
 ### Kommentare
 
@@ -119,7 +119,7 @@
 - [x] 3 Arten von Programmierfehler mit Beispiel aufzählen
 - [x] korrekte Hilfsmittel für zur Behebung für die 3 Arten von Programmierfehlern mit Beispiel
 
-[Lösung](./Fehler)
+[Lösung](./Fehler/README.md)
 
 ### Debugger
 
@@ -127,7 +127,7 @@
 - [ ] Verwendung eines Debuggers mit Beispiel erläutern
 - [ ] Mit Beispiel aufzeigen, wie ich Anhand eines Debuggers einen Fehler finde
 
-[Lösung](./Debugger)
+[Lösung](./Debugger/README.md)
 
 ### Tests
 
@@ -138,8 +138,8 @@
 - [ ] Sinvolle Testfalle aus Anforderungsanalyse ableiten
 - [ ] Anhand einer Tesfallspezifikation Tests durchführen, protokollieren und Fazit formulieren
 
-[Lösung](./Tests)
+[Lösung](./Tests/README.md)
 
 ### Fazit
 
-[Lösung](./Fazit)
+[Lösung](./Fazit/README.md)
