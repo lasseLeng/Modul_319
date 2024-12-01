@@ -14,15 +14,12 @@ Ein Auftraggeber will ein Programm, womit er schnell und einfach ermitteln kann,
 | 8        | Randbedingung | Das Programm soll in C# geschrieben sein.                                           |
 
 
-Wir haben eine Tabelle, in der verschiedene Sachen beschrieben sind. Wir haben mehrere Anforderungen. Jede Anforderung hat eine Anforderungsnummer, einen Typ und eine kurze Beschreibung der Anforderung. Die Anforderungsnummer dient nur zur Strukturierung der Anforderungen.
-
-Im Typ wird beschrieben, um welche Art von Anforderung es sich handelt. Zum Beispiel gibt es funktionale Anforderungen, die etwas mit der Funktion der Anwendung zu tun haben. Außerdem gibt es noch Qualitätsanforderungen; diese betreffen die Qualität der Anwendung. Das Programm würde auch ohne diese Anforderungen laufen, wäre dann aber beispielsweise nicht so benutzerfreundlich.
-
-Dann gibt es noch Randbedingungen. Diese regeln alles rund um den Auftrag, beispielsweise in welcher Programmiersprache die Anwendung geschrieben sein soll oder bis wann sie fertig sein muss.
-
 Aus diesen Anforderungen erstellt der Entwickler anschließend einen PAP (Programmablaufplan), in dem das Programm, das später programmiert werden muss, grafisch nach bestimmten Richtlinien dargestellt wird.
 Dies hilft ihm nichts zu vergessen und das Programm besser zu verstehen.
 
+Jeder Programablaufplan Fängt mit einem Start an und endet mit einem Ende. Zwischen diesen beiden Symbolen befindet sich das Programm. In meinem Beispiel fängt es mit vier Eingaben an. Daraufhin geht es weiter in ein Unterprogramm, dieses Unterprogramm kann man im Unteren Screenshot sehen. In diesem Unterprogramm wird mit Verarbeitungssymbolen dargestellt, wie der Preis ermittelt wird.
+Wenn es durchgelaufen ist kommt es zu einer Kontrollstruktur, die ermittelt, ob sich der Preis im Rahmen des Maximalpreises befindet. Sollte dies nicht so sein so gibt das Programm dies aus und geht wieder zum Anfang.
+Sollte der Preis jedoch im Rahmen liegen so gibt das Programm diesen Preis aus und beendet sich.
 ![PAP](Screenshot_2024-11-06_184858.png)
 ![PAP](Screenshot_2024-11-06_184907.png)
 
