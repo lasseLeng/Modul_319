@@ -1,11 +1,11 @@
-In meinem Code Beispiel könnt ihr alle arten von Iteration und Alteration sehen. 
+In meinem Code Beispiel können Sie alle arten von Iteration und Alteration sehen. 
 Ich habe sowohl Fuss- als auch Kopfgesteuerte Schleifen Eingebaut.
 Der Code Befindet sich in:
 
-[Lösung](./Program.cs)
+[Program.cs](./Program.cs)
 
-[Lösung](./Uhr.cs)
+[Uhr.cs](./Uhr.cs)
 
-[Lösung](./Stoppuhr.cs)
+[Stoppuhr.cs](./Stoppuhr.cs)
 
-[Lösung](./Timer.cs)
+[Timer.cs](./Timer.cs)
