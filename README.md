@@ -54,7 +54,7 @@
 
 ### Kontrollstrukturen
 
-- [ ] Einsatzzweck von Alternation und Iteration mit Beispiel erklären
+- [x] Einsatzzweck von Alternation und Iteration mit Beispiel erklären
 - [x] Unterschied zwischen kopf-, fussgesteuerter- und Zähliteration mit Beispiel in C#
 
 [Lösung](./HZ4_3/README.md)
