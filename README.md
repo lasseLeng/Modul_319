@@ -110,7 +110,7 @@
 - [x] Je 2 Vor- und Nachteile von Kommentaren mit konkreter Situation
 - [x] Programm mit sinnvollen Kommentaren versehen
 
-[Lösung](./HZ2_EVA)
+[Lösung](./HZ2_EVA/README.md)
 
 ## Handlungsziel 6
 
@@ -123,20 +123,20 @@
 
 ### Debugger
 
-- [ ] Zweck eines Debuggers mit Beispiel
-- [ ] Verwendung eines Debuggers mit Beispiel erläutern
-- [ ] Mit Beispiel aufzeigen, wie ich Anhand eines Debuggers einen Fehler finde
+- [x] Zweck eines Debuggers mit Beispiel
+- [x] Verwendung eines Debuggers mit Beispiel erläutern
+- [x] Mit Beispiel aufzeigen, wie ich Anhand eines Debuggers einen Fehler finde
 
 [Lösung](./Debugger/README.md)
 
 ### Tests
 
-- [ ] Verfahren eines statischen Tests mit Beispiel
-- [ ] Bedeutung für Software Qualität erläutern
-- [ ] Zweck Aufbau einer Testspezifikation mit Beispiel erklären. Wie bettet sich diese in ein Testkonzept ein?
-- [ ] Zweck und Aufbau einer Testprotokolls erklären. Wie passte dieses in das Testkonzept?
-- [ ] Sinvolle Testfalle aus Anforderungsanalyse ableiten
-- [ ] Anhand einer Tesfallspezifikation Tests durchführen, protokollieren und Fazit formulieren
+- [x] Verfahren eines statischen Tests mit Beispiel
+- [x] Bedeutung für Software Qualität erläutern
+- [x] Zweck Aufbau einer Testspezifikation mit Beispiel erklären. Wie bettet sich diese in ein Testkonzept ein?
+- [x] Zweck und Aufbau einer Testprotokolls erklären. Wie passte dieses in das Testkonzept?
+- [x] Sinvolle Testfalle aus Anforderungsanalyse ableiten
+- [x] Anhand einer Tesfallspezifikation Tests durchführen, protokollieren und Fazit formulieren
 
 [Lösung](./Tests/README.md)
 

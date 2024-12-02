@@ -14,4 +14,4 @@ Wir können Fehler auf verschiedene Arten finden. Einmal mit den Fehlermeldungen
 
 Oder mit den Warnmeldungen. Diese zeigen uns auch, wo die Warnung liegt.
 
-Sollte all dies nicht helfen, gibt es noch den Debugger, auf den ich im Verzeichniss "Debugger" genauer eingehen werde.
+Sollte all dies nicht helfen, gibt es noch den Debugger, auf den ich im Verzeichnis "Debugger" genauer eingehen werde.
