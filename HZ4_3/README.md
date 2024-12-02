@@ -1,11 +1,11 @@
 In meinem Code Beispiel könnt ihr alle arten von Iteration und Alteration sehen. 
-Ich habe sowohl fuss als auch Kopfgesteuerte Schleifen Eingebaut.
-Der Code BEfindet sich in:
+Ich habe sowohl Fuss- als auch Kopfgesteuerte Schleifen Eingebaut.
+Der Code Befindet sich in:
 
-/HZ4_3/Program.cs
+[Lösung](./Program.cs)
 
-/HZ4_3/Uhr.cs
+[Lösung](./Uhr.cs)
 
-/HZ4_3/Stoppuhr.cs
+[Lösung](./Stoppuhr.cs)
 
-/HZ4_3/Timer.cs
+[Lösung](./Timer.cs)
